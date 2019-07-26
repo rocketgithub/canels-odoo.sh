@@ -1,0 +1,3 @@
+[submodule "canels"]
+	path = canels
+	url = https://github.com/rocketgithub/canels.git
