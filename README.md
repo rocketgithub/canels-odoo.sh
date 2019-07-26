@@ -1,2 +1,1 @@
 # canels-odoo.sh
-
