@@ -1,3 +1,7 @@
 [submodule "canels"]
 	path = canels
 	url = git@github.com:rocketgithub/canels.git
+[submodule "l10n_gt_extra"]
+	path = l10n_gt_extra
+	url = https://github.com/rocketgithub/l10n_gt_extra.git
+	branch = 11.0
